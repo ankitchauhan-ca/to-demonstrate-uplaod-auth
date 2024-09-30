@@ -30,12 +30,3 @@ This is a web application built with React for uploading files. It includes user
 git clone <repository-url>
 cd to-demonstrate-uplaod-auth
 
-
-## 2. Run frontend
-```bash
-cd demonstrate
-npm start
-
-```bash
-cd my-server
-node app.js
