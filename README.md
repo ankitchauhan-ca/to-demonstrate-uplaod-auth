@@ -28,4 +28,4 @@ This is a web application built with React for uploading files. It includes user
 
 ```bash
 git clone <repository-url>
-cd file-upload-app
+cd to-demonstrate-uplaod-auth
