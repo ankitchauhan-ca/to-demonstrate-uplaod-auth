@@ -31,7 +31,7 @@ git clone <repository-url>
 cd to-demonstrate-uplaod-auth
 
 
-### 2. Run frontend
+## 2. Run frontend
 ```bash
 cd demonstrate
 npm start
