@@ -25,9 +25,21 @@ This is a web application built with React for uploading files. It includes user
 ## Getting Started
 
 ### 1. Clone the Repository
-
 ```bash
 git clone <repository-url>
 cd to-demonstrate-uplaod-auth
+```
+### 2. Run Frontend code
+```bash
+cd demonstrate
+npm start
+```
+### 3. Run Backend code
+```bash
+cd my-server
+node app.js
+
+
+
 
 
